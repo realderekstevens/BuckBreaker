@@ -11,3 +11,5 @@ Buttons are styled links that can lead to local page or external link.
 
 {{<button relref="/">}}Get Home{{</button>}}
 {{<button href="https://github.com/alex-shpak/hugo-book">}}Contribute{{</button>}}
+
+{{< embed-pdf url="../example.pdf" hideLoader="false" hidePaginator="false" >}}
