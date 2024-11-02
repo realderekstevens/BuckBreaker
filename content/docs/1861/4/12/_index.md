@@ -3,8 +3,6 @@ weight: 12
 title: '12th'
 ---
 
-{{<embed-pdf url="./1861-04-12-01.pdf">}}
-
 # 3rd Level of Menu
 
 Nefas discordemque domino montes numen tum humili nexilibusque exit, Iove. Quae
