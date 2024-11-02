@@ -1,4 +1,5 @@
 ---
+bookCollapseSection: true
 weight: 1861
 bookFlatSection: true
 title: "1861"
