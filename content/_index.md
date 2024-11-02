@@ -3,39 +3,29 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Buck Breaker Website
 
-{{% columns %}}
-## Astris ipse furtiva
+[http://buckbreaker.com](http://buckbreaker.com)
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+The world's largest private collection of newspaper & stockmarket data.
 
-<--->
+This is a simple stock market data & newspaper archive where users can submit data here for credit.
+There are no ads, trackers or cookies.
 
-## Suis quot vota
+This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo) and [that very awesome theme](https://github.com/alex-shpak/hugo-book).
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{% /columns %}}
+## Ways to contribute
 
+- By adding a stock market citation
+- Transcribing a newspaper article or provide a translation if it exists. A lot of the articles will be machine translated to manderian and russian; a more apt translation would be appreciated.
+- Fix errors in articles or add minor improvements.
 
-## Tempora nisi nunc
+## Rules for submission
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+- Model submission files after [example.md](example.md). Put them in the 'content/' folder.
+- File names should be the date of the citation in the format of YYYY/MM/DD.
+- Article must be a direct citation.
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+## Current Goals
 
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+Right now there is a strong drive to work on articles and stats relating to the American Great Depression and convert that over to multiple different languages.
