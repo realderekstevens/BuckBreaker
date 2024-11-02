@@ -2,3 +2,33 @@ baseURL = 'https://buckbreaker.com/'
 languageCode = 'en-us'
 title = 'BuckBreaker.com'
 theme = 'hugo-book'
+disablePathToLower = true
+enableGitInfo = true
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.tableOfContents]
+  startLevel = 1
+
+[menu]
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/realderekstevens/BuckBreaker"
+  weight = 10
+
+[params]
+  BookTheme = 'dark'
+  BookToC = false
+  BookFavicon = 'favicon.png'
+  #BookLogo = 'logo.png'
+  BookSection = 'docs'
+  BookRepo = 'https://github.com/realderekstevens/BuckBreaker'
+  BookCommitPath = 'commit'
+  #BookEditPath = 'realderekstevens/buckbreaker'
+  BookDateFormat = 'January 2, 2006'
+  BookSearch = true
+  #BookComments = true
+  BookPortableLinks = true
+  #BookServiceWorker = true
+  #BookTranslatedOnly = false
