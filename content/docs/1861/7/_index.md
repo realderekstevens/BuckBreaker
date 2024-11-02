@@ -1,6 +1,6 @@
 ---
-weight: 11
-
+weight: 7
+title: 'July'
 ---
 
 # 3rd Level of Menu

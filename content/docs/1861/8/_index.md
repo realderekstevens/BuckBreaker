@@ -1,6 +1,6 @@
 ---
-weight: 12
-
+weight: 8
+title: 'August'
 ---
 
 # 3rd Level of Menu
