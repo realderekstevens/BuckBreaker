@@ -2,6 +2,13 @@
 weight: 12
 title: '12th'
 ---
+
+<figure>
+  <img src="1861-04-12-01.pdf">
+  <figcaption><h4>An elephant at sunset</h4></figcaption>
+</figure>i
+
+
 # [1861-04-12-01.pdf](/1861-04-12-01.pdf)
 
 # [1861-04-12-02.pdf](/1861-04-12-02.pdf)
