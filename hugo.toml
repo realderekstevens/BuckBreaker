@@ -1,7 +1,7 @@
 baseURL = 'https://buckbreaker.com/'
 languageCode = 'en-us'
 title = 'BuckBreaker.com'
-theme = ''
+#theme = ''
 disablePathToLower = true
 enableGitInfo = true
 
